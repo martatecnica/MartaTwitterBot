@@ -1,0 +1,17 @@
+{
+  "name": "twitter-bot-privacidad",
+  "version": "1.0.0",
+  "description": "Bot automático para publicar frases sobre privacidad en Twitter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "twitter-api-v2": "^1.17.0"
+  },
+  "keywords": ["twitter", "bot", "privacidad", "vpn", "automatización"],
+  "author": "Marta Técnica",
+  "license": "MIT"
+}
